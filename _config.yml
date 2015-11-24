@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mojblog.github.io
+title: Zawsze coś
+tagline: Niewerbalnie i nieekstrawertycznie
+description: Zawsze coś prosto ode mnie!
+paginate: 3
